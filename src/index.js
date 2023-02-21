@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import "bootstrap/dist/css/bootstrap.min.css"
+import "./fonts/CharlesSebastian/CharlesSebastian.ttf"
+import "./fonts/avenir_ff/TTNorms-Light.otf"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

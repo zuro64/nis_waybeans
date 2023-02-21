@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face{
+  font-family:charlesSebastian;
+  src:url("./fonts/CharlesSebastian/CharlesSebastian.ttf")
+
+}
+
+@font-face{
+  font-family:avenirRoman;
+  src:url("./fonts/avenir_ff/TTNorms-Light.otf")
+
+}
+.charlesSebastian {
+  font-family: charlesSebastian;
+}
+
+.avenirFont{
+  font-family: avenirFont;
+}
+
